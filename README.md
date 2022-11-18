@@ -19,4 +19,9 @@ awopejtopawjoptaewjt
 oppaowejtpoawjopetw
 jawopejtopawjtopajweopt
 awjetpoawjetopaewjtop
+<<<<<<< HEAD
+>>>>>>> test
+=======
+
+hello kitty!
 >>>>>>> test
