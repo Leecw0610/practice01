@@ -6,3 +6,8 @@ testtest
 
 
 이혁수도 왔습니다.
+
+이곳은 main branch입니다~
+
+googogogogogogogogogogoogoggooggogogo
+이것이 메인 브렌치 일지도 모릅니gjhgjhgjhgjh
