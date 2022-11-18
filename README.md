@@ -10,4 +10,10 @@ testtest
 이곳은 main branch입니다~
 
 googogogogogogogogogogoogoggooggogogo
-이것이 메인 브렌치 일지도 모릅니gjhgjhgjhgjh
+이것이 메인 브렌치 일지도 모릅니다 ㅋㅋ
+
+awletjailwetawltijw
+awopejtopawjoptaewjt
+oppaowejtpoawjopetw
+jawopejtopawjtopajweopt
+awjetpoawjetopaewjtop
