@@ -11,3 +11,12 @@ testtest
 
 googogogogogogogogogogoogoggooggogogo
 이것이 메인 브렌치 일지도 모릅니다 ㅋㅋ
+<<<<<<< HEAD
+=======
+
+awletjailwetawltijw
+awopejtopawjoptaewjt
+oppaowejtpoawjopetw
+jawopejtopawjtopajweopt
+awjetpoawjetopaewjtop
+>>>>>>> test
